@@ -1,0 +1,24 @@
+{
+  "name": "tecnicas-programacao",
+  "version": "1.0.0",
+  "description": "Material das aulas Técnicas de Programação\r # Nome: João Victor Pereira de Souza\r # RGM: 7225952145\r # Semestre: 3K",
+  "main": "aula.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigbig33/Tecnicas-Programacao.git"
+  },
+  "keywords": [
+    "aula",
+    "node",
+    "npm"
+  ],
+  "author": "João",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigbig33/Tecnicas-Programacao/issues"
+  },
+  "homepage": "https://github.com/bigbig33/Tecnicas-Programacao#readme"
+}

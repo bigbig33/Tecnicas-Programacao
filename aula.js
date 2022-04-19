@@ -1,1 +1,1 @@
-alert('mensagem');
+console.log("Projeto Node");
